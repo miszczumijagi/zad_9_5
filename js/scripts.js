@@ -4,7 +4,6 @@ console.log(buttonItemsClass);
 
 var numberOfButtons = buttonItemsClass.length
 for (i = 0 ; i <= numberOfButtons ; i++) {
-  console.log(buttonItemsClass.);
   
+  alert(buttonItemsClass[i].innerText);
 }
-console.log(buttonItemsClass.innerText);
